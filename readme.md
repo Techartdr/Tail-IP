@@ -43,7 +43,6 @@ The project uses the gpiozero library. Ensure common ground between servos and t
 | **Button Neutral** | Pin 5 | GPIO 3 | Trigger Neutral |
 | **Button Sad** | Pin 7 | GPIO 4 | Trigger Sadness |
 
-
 ## 🚀 Installation & Usage
 
 1. Prerequisites  
@@ -73,7 +72,7 @@ It is recommended to run the script with administrative privileges to access GPI
   - Press Button 3 (Pin 7): SAD Mode. The tail slows down significantly and droops.
 
 
-### 📜 Version History
+### Version History
 
 | Hardware Version | Software Version | Comments |
 | :---: | :---: | :--- |
@@ -94,6 +93,10 @@ Mechanical Integration: Transition from VR prototyping (v0.1) to a 3D-printed mo
 - Sensors: Replace buttons with body sensors.
 - Add more powerful servomotors.
 - Feedback: Add haptic feedback when the tail hits an obstacle.
+
+## 🪧 Poster
+
+![Poster](./assets/WagSense.png)
 
 ## ⚖️ License & Copyright
 
