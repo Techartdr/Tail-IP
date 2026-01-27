@@ -100,7 +100,7 @@ Mechanical Integration: Transition from VR prototyping (v0.1) to a 3D-printed mo
 
 ## Video
 
-A demo video is available in the asset folder: "Wagense_Demo.mp4”.  
+A demo video is available in the assets folder: "Wagsense_Demo.mp4”.  
 Please use MPV to play the video.
 
 ## ⚖️ License & Copyright
